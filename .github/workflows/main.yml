@@ -13,5 +13,5 @@ jobs:
         server: files.000webhost.com
         username: TheoPARISOT
         password: 9UiCA6kVrunlqqY6sd0a
-        server-dir : public_html/
+        server-dir: public_html/
   
